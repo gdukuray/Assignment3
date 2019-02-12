@@ -13,6 +13,8 @@ C2_P23 -- Chapter 2 Programming Problem 23
 
 C2_P29 -- Chapter 2 Programming Problem 29
 
+seekbarTemp -- Part II of Worksheet
+
 FlashcardMath -- Part III of Worksheet
 
 
