@@ -1,0 +1,14 @@
+Chapter 3
+
+1. importing the View class is sufficient
+2. onClick
+3. addView
+4. this
+5. this.X
+6. getWindowManager().getDefaultDisplay().getSize(size);
+7 GridLayout
+8. setRowCount
+9. setContentView
+10. Button b = new Button();
+11. LayoutParams
+12. setGravity
